@@ -1,0 +1,45 @@
+[
+    {
+      "id": "01",
+      "name": "Operating System",
+      "img": "https://howandwhat.net/wp-content/uploads/2017/07/Operating-system.jpg",
+      "details": "Discrete mathematics is the study of mathematical structures that are countable or otherwise distinct and separable. Examples of structures that are discrete are combinations, graphs, and logical statements.",
+      "price":"7000"
+    },
+    {
+      "id": "02",
+      "name": "Theory Of Computation",
+      "img":"https://test.brainkart.com/media/subject/article-Theory-of-Computatio-Ukf.jpg",
+      "details":"The theory of computation is mathematically model a machine (for example a computer) and study the theory about it which means what are the problems which would be solved by this machine, what are the limitations of the machine etc.",
+      "price": "3950"
+    },
+    {
+      "id": "03",
+      "name": "System Analysis",
+      "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/1198/9781119803782.jpg",
+      "details": "Systems analysis is the process by which an individual (s) studies a system such that an information system can be analyzed, modeled, and a logical alternative can be chosen. Systems analysis projects are initiated for three reasons: problems, opportunities, and directives.",
+      "price": "2500"
+    },
+    {
+      "id": "04",
+      "name": "Pattern Recognition",
+      "img":"https://cdn.educba.com/academy/wp-content/uploads/2020/01/Pattern-Recognition.jpg",
+      "details": "Pattern recognition is a data analysis method that uses machine learning algorithms to automatically recognize patterns and regularities in data. This data can be anything from text and images to sounds or other definable qualities. Pattern recognition systems can recognize familiar patterns quickly and accurately",
+      "price":"4000"
+    },
+    {
+      "id": "05",
+      "name": "Software Engineering",
+      "img":"https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg",
+      "details": "Pattern recognition is a data analysis method that uses machine learning algorithms to automatically recognize patterns and regularities in data. This data can be anything from text and images to sounds or other definable qualities. Pattern recognition systems can recognize familiar patterns quickly and accurately",
+      "price":"4200"
+    },
+    {
+      "id": "06",
+      "name": "Discrete Mathematics",
+      "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--cqZpvxqB--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3kgxmx7ddk0ws4ng0xo3.jpg",
+      "details": "Discrete mathematics is the study of mathematical structures that are countable or otherwise distinct  and separable. Examples of structures that are discrete are combinations, graphs, and logical statements.",
+      "price":"3900"
+    }
+    
+  ]
