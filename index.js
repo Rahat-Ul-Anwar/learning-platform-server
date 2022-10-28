@@ -16,6 +16,13 @@ app.get('/courses', (req, res) => {
 
 })
 
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.find(course => course.id === id)
+    res.send(selectedCourse);
+    
+})
+
 app.listen(port , ()=> {
     console.log('Learning management server running on port', port);
 })
